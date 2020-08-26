@@ -4,10 +4,10 @@
            failures="0"
            errors="0"
            skipped="0"
-           time="0.073">
+           time="0.076">
   <properties />
   
   
-            <testcase name="Verify_ProductBar_Position_and_Color" time="0.073" classname="test.Test_ProductBar_Position_and_Color" />
+            <testcase name="Verify_ProductBar_Position_and_Color" time="0.076" classname="test.Test_ProductBar_Position_and_Color" />
       
 </testsuite>

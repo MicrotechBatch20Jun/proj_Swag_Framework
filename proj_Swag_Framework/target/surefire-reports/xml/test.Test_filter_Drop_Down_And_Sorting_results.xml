@@ -4,10 +4,10 @@
            failures="0"
            errors="0"
            skipped="0"
-           time="0.253">
+           time="0.250">
   <properties />
   
   
-            <testcase name="Verify_filter_Drop_Down_And_Sorting" time="0.253" classname="test.Test_filter_Drop_Down_And_Sorting" />
+            <testcase name="Verify_filter_Drop_Down_And_Sorting" time="0.250" classname="test.Test_filter_Drop_Down_And_Sorting" />
       
 </testsuite>
