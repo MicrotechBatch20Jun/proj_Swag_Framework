@@ -1,85 +1,166 @@
-26/08/2020 00:16:28 devpinoyLogger Swag Labs
-26/08/2020 00:16:32 devpinoyLogger VERIFY_CHECKOUT_STEPSTest Started
-26/08/2020 00:16:33 devpinoyLogger Element Exist
-26/08/2020 00:16:33 devpinoyLogger Details Position is: static
-26/08/2020 00:16:33 devpinoyLogger Position Asserted
-26/08/2020 00:16:33 devpinoyLogger Details Position X point: 199
-26/08/2020 00:16:33 devpinoyLogger Details Position Y point: 170
-26/08/2020 00:16:33 devpinoyLogger Continue button Exist
-26/08/2020 00:16:33 devpinoyLogger Continue color is: rgba(226, 35, 26, 1)
-26/08/2020 00:16:33 devpinoyLogger #e2231a
-26/08/2020 00:16:33 devpinoyLogger Continue button Clicked
-26/08/2020 00:16:33 devpinoyLogger https://www.saucedemo.com/checkout-step-two.html
-26/08/2020 00:16:33 devpinoyLogger TestUtil.screenshotName=Wed_Aug_26_00_16_33_CDT_2020.jpg
-26/08/2020 00:16:34 devpinoyLogger Swag Labs
-26/08/2020 00:16:36 devpinoyLogger VERIFY_SWAGLABS_LOGOTest Started
-26/08/2020 00:16:36 devpinoyLogger LOGO Exist
-26/08/2020 00:16:36 devpinoyLogger Logo position is: center
-26/08/2020 00:16:36 devpinoyLogger TestUtil.screenshotName=Wed_Aug_26_00_16_36_CDT_2020.jpg
-26/08/2020 00:16:36 devpinoyLogger Swag Labs
-26/08/2020 00:16:39 devpinoyLogger VERIFY_PRIVACY_POLICYTest Started
-26/08/2020 00:16:39 devpinoyLogger Privacy Footer is Exist
-26/08/2020 00:16:39 devpinoyLogger Privacy Footer Position is: relative
-26/08/2020 00:16:39 devpinoyLogger Position Asserted
-26/08/2020 00:16:39 devpinoyLogger Privacy Footer X point: 10
-26/08/2020 00:16:39 devpinoyLogger Privacy Footer Y point: 1713
-26/08/2020 00:16:39 devpinoyLogger Clicked and Verified Privacy Footer
-26/08/2020 00:16:39 devpinoyLogger TestUtil.screenshotName=Wed_Aug_26_00_16_39_CDT_2020.jpg
-26/08/2020 00:16:39 devpinoyLogger Swag Labs
-26/08/2020 00:16:41 devpinoyLogger VERIFY_ADD_CART_AND_REMOVETest Started
-26/08/2020 00:16:41 devpinoyLogger Item in Cart
-26/08/2020 00:16:41 devpinoyLogger Add a Cart Exist
-26/08/2020 00:16:41 devpinoyLogger Add a Cart is Displayed
-26/08/2020 00:16:41 devpinoyLogger Cart Position is: absolute
-26/08/2020 00:16:41 devpinoyLogger Position Asserted
-26/08/2020 00:16:41 devpinoyLogger CART X point: 721
-26/08/2020 00:16:41 devpinoyLogger CART Y point: 16
-26/08/2020 00:16:41 devpinoyLogger Add a Cart Color is: rgba(119, 119, 119, 1)
-26/08/2020 00:16:41 devpinoyLogger #777777
-26/08/2020 00:16:42 devpinoyLogger Add a Cart Clicked
-26/08/2020 00:16:42 devpinoyLogger Verified Add A Cart
-26/08/2020 00:16:42 devpinoyLogger Remove Button Exist
-26/08/2020 00:16:42 devpinoyLogger Remove button is Displayed
-26/08/2020 00:16:42 devpinoyLogger Remove button Case type: uppercase
-26/08/2020 00:16:42 devpinoyLogger Remove button X point: 646
-26/08/2020 00:16:42 devpinoyLogger Remove button Y point: 333
-26/08/2020 00:16:42 devpinoyLogger Remove Border Color is: rgba(71, 76, 85, 1)
-26/08/2020 00:16:42 devpinoyLogger #474c55
-26/08/2020 00:16:42 devpinoyLogger TestUtil.screenshotName=Wed_Aug_26_00_16_42_CDT_2020.jpg
-26/08/2020 00:16:42 devpinoyLogger Swag Labs
-26/08/2020 00:16:44 devpinoyLogger VERIFY_HEADER_IMAGETest Started
-26/08/2020 00:16:44 devpinoyLogger Header Image Exist
-26/08/2020 00:16:44 devpinoyLogger Image Position is: absolute
-26/08/2020 00:16:44 devpinoyLogger Position Asserted
-26/08/2020 00:16:44 devpinoyLogger Image X point: 15
-26/08/2020 00:16:44 devpinoyLogger Image Y point: 90
-26/08/2020 00:16:44 devpinoyLogger rgba(74, 74, 74, 1)
-26/08/2020 00:16:44 devpinoyLogger #4a4a4a
-26/08/2020 00:16:44 devpinoyLogger Verified Header Image
-26/08/2020 00:16:44 devpinoyLogger TestUtil.screenshotName=Wed_Aug_26_00_16_44_CDT_2020.jpg
-26/08/2020 00:16:45 devpinoyLogger Swag Labs
-26/08/2020 00:16:47 devpinoyLogger VERIFY_CONTINUE_SHOPTest Started
-26/08/2020 00:16:47 devpinoyLogger Continue Shopping button Exist
-26/08/2020 00:16:47 devpinoyLogger Continue Shopping button is Displayed
-26/08/2020 00:16:47 devpinoyLogger Continue Shopping Case Type: uppercase
-26/08/2020 00:16:47 devpinoyLogger Position Asserted
-26/08/2020 00:16:47 devpinoyLogger Continue Shopping X point: 15
-26/08/2020 00:16:47 devpinoyLogger Continue Shopping Y point: 438
-26/08/2020 00:16:47 devpinoyLogger Background Color is: rgba(255, 255, 255, 1)
-26/08/2020 00:16:47 devpinoyLogger #ffffff
-26/08/2020 00:16:47 devpinoyLogger Clicked Continue Shopping button
-26/08/2020 00:16:47 devpinoyLogger https://www.saucedemo.com/inventory.html
-26/08/2020 00:16:47 devpinoyLogger Verified Continue Shopping button
-26/08/2020 00:16:47 devpinoyLogger TestUtil.screenshotName=Wed_Aug_26_00_16_47_CDT_2020.jpg
-26/08/2020 00:16:47 devpinoyLogger Swag Labs
-26/08/2020 00:16:49 devpinoyLogger VERIFY_PRODUCTS_HEADERTest Started
-26/08/2020 00:16:49 devpinoyLogger Products Header Exist
-26/08/2020 00:16:49 devpinoyLogger Products Header position is: absolute
-26/08/2020 00:16:49 devpinoyLogger Position Asserted
-26/08/2020 00:16:49 devpinoyLogger Products Header X point: 110
-26/08/2020 00:16:49 devpinoyLogger Products Header Y point: 95
-26/08/2020 00:16:49 devpinoyLogger rgba(255, 255, 255, 1)
-26/08/2020 00:16:49 devpinoyLogger #ffffff
-26/08/2020 00:16:49 devpinoyLogger Verified Product Header
-26/08/2020 00:16:50 devpinoyLogger TestUtil.screenshotName=Wed_Aug_26_00_16_50_CDT_2020.jpg
-26/08/2020 00:16:50 devpinoyLogger Swag Labs
+26/08/2020 01:11:07 devpinoyLogger Swag Labs
+26/08/2020 01:11:12 devpinoyLogger VERIFY_CHECKOUT_STEPSTest Started
+26/08/2020 01:11:12 devpinoyLogger Element Exist
+26/08/2020 01:11:12 devpinoyLogger Details Position is: static
+26/08/2020 01:11:12 devpinoyLogger Position Asserted
+26/08/2020 01:11:12 devpinoyLogger Details Position X point: 199
+26/08/2020 01:11:12 devpinoyLogger Details Position Y point: 170
+26/08/2020 01:11:13 devpinoyLogger Continue button Exist
+26/08/2020 01:11:13 devpinoyLogger Continue color is: rgba(226, 35, 26, 1)
+26/08/2020 01:11:13 devpinoyLogger #e2231a
+26/08/2020 01:11:13 devpinoyLogger Continue button Clicked
+26/08/2020 01:11:13 devpinoyLogger https://www.saucedemo.com/checkout-step-two.html
+26/08/2020 01:11:13 devpinoyLogger TestUtil.screenshotName=Wed_Aug_26_01_11_13_CDT_2020.jpg
+26/08/2020 01:11:13 devpinoyLogger Swag Labs
+26/08/2020 01:11:15 devpinoyLogger VERIFY_SWAGLABS_LOGOTest Started
+26/08/2020 01:11:15 devpinoyLogger LOGO Exist
+26/08/2020 01:11:15 devpinoyLogger Logo position is: center
+26/08/2020 01:11:15 devpinoyLogger Position Asserted
+26/08/2020 01:11:15 devpinoyLogger Product Bar X point: 68
+26/08/2020 01:11:15 devpinoyLogger Product Bar Y point: 18
+26/08/2020 01:11:16 devpinoyLogger Verified App Logo
+26/08/2020 01:11:16 devpinoyLogger TestUtil.screenshotName=Wed_Aug_26_01_11_16_CDT_2020.jpg
+26/08/2020 01:11:16 devpinoyLogger Swag Labs
+26/08/2020 01:11:18 devpinoyLogger VERIFY_PRIVACY_POLICYTest Started
+26/08/2020 01:11:18 devpinoyLogger Privacy Footer is Exist
+26/08/2020 01:11:18 devpinoyLogger Privacy Footer Position is: relative
+26/08/2020 01:11:18 devpinoyLogger Position Asserted
+26/08/2020 01:11:18 devpinoyLogger Privacy Footer X point: 10
+26/08/2020 01:11:18 devpinoyLogger Privacy Footer Y point: 1713
+26/08/2020 01:11:18 devpinoyLogger Clicked and Verified Privacy Footer
+26/08/2020 01:11:18 devpinoyLogger TestUtil.screenshotName=Wed_Aug_26_01_11_18_CDT_2020.jpg
+26/08/2020 01:11:19 devpinoyLogger Swag Labs
+26/08/2020 01:11:21 devpinoyLogger VERIFY_ADD_CART_AND_REMOVETest Started
+26/08/2020 01:11:21 devpinoyLogger Item in Cart
+26/08/2020 01:11:21 devpinoyLogger Add a Cart Exist
+26/08/2020 01:11:21 devpinoyLogger Add a Cart is Displayed
+26/08/2020 01:11:21 devpinoyLogger Cart Position is: absolute
+26/08/2020 01:11:21 devpinoyLogger Position Asserted
+26/08/2020 01:11:21 devpinoyLogger CART X point: 721
+26/08/2020 01:11:21 devpinoyLogger CART Y point: 16
+26/08/2020 01:11:21 devpinoyLogger Add a Cart Color is: rgba(119, 119, 119, 1)
+26/08/2020 01:11:21 devpinoyLogger #777777
+26/08/2020 01:11:21 devpinoyLogger Add a Cart Clicked
+26/08/2020 01:11:21 devpinoyLogger Verified Add A Cart
+26/08/2020 01:11:21 devpinoyLogger Remove Button Exist
+26/08/2020 01:11:21 devpinoyLogger Remove button is Displayed
+26/08/2020 01:11:21 devpinoyLogger Remove button Case type: uppercase
+26/08/2020 01:11:21 devpinoyLogger Remove button X point: 646
+26/08/2020 01:11:21 devpinoyLogger Remove button Y point: 333
+26/08/2020 01:11:21 devpinoyLogger Remove Border Color is: rgba(71, 76, 85, 1)
+26/08/2020 01:11:21 devpinoyLogger #474c55
+26/08/2020 01:11:21 devpinoyLogger TestUtil.screenshotName=Wed_Aug_26_01_11_21_CDT_2020.jpg
+26/08/2020 01:11:21 devpinoyLogger Swag Labs
+26/08/2020 01:11:24 devpinoyLogger VERIFY_HEADER_IMAGETest Started
+26/08/2020 01:11:24 devpinoyLogger Header Image Exist
+26/08/2020 01:11:24 devpinoyLogger Image Position is: absolute
+26/08/2020 01:11:24 devpinoyLogger Position Asserted
+26/08/2020 01:11:24 devpinoyLogger Image X point: 15
+26/08/2020 01:11:24 devpinoyLogger Image Y point: 90
+26/08/2020 01:11:24 devpinoyLogger rgba(74, 74, 74, 1)
+26/08/2020 01:11:24 devpinoyLogger #4a4a4a
+26/08/2020 01:11:24 devpinoyLogger Verified Header Image
+26/08/2020 01:11:24 devpinoyLogger TestUtil.screenshotName=Wed_Aug_26_01_11_24_CDT_2020.jpg
+26/08/2020 01:11:24 devpinoyLogger Swag Labs
+26/08/2020 01:11:26 devpinoyLogger VERIFY_CONTINUE_SHOPTest Started
+26/08/2020 01:11:26 devpinoyLogger Continue Shopping button Exist
+26/08/2020 01:11:26 devpinoyLogger Continue Shopping button is Displayed
+26/08/2020 01:11:26 devpinoyLogger Continue Shopping Case Type: uppercase
+26/08/2020 01:11:26 devpinoyLogger Position Asserted
+26/08/2020 01:11:26 devpinoyLogger Continue Shopping X point: 15
+26/08/2020 01:11:26 devpinoyLogger Continue Shopping Y point: 438
+26/08/2020 01:11:26 devpinoyLogger Background Color is: rgba(255, 255, 255, 1)
+26/08/2020 01:11:26 devpinoyLogger #ffffff
+26/08/2020 01:11:26 devpinoyLogger Clicked Continue Shopping button
+26/08/2020 01:11:26 devpinoyLogger https://www.saucedemo.com/inventory.html
+26/08/2020 01:11:26 devpinoyLogger Verified Continue Shopping button
+26/08/2020 01:11:27 devpinoyLogger TestUtil.screenshotName=Wed_Aug_26_01_11_27_CDT_2020.jpg
+26/08/2020 01:11:27 devpinoyLogger Swag Labs
+26/08/2020 01:11:29 devpinoyLogger VERIFY_PRODUCTS_HEADERTest Started
+26/08/2020 01:11:29 devpinoyLogger Products Header Exist
+26/08/2020 01:11:29 devpinoyLogger Products Header position is: absolute
+26/08/2020 01:11:29 devpinoyLogger Position Asserted
+26/08/2020 01:11:29 devpinoyLogger Products Header X point: 110
+26/08/2020 01:11:29 devpinoyLogger Products Header Y point: 95
+26/08/2020 01:11:29 devpinoyLogger rgba(255, 255, 255, 1)
+26/08/2020 01:11:29 devpinoyLogger #ffffff
+26/08/2020 01:11:29 devpinoyLogger Verified Product Header
+26/08/2020 01:11:29 devpinoyLogger TestUtil.screenshotName=Wed_Aug_26_01_11_29_CDT_2020.jpg
+26/08/2020 01:11:29 devpinoyLogger Swag Labs
+26/08/2020 01:11:32 devpinoyLogger VERIFY_BURGER_MENUTest Started
+26/08/2020 01:11:32 devpinoyLogger Burger Menu Exist
+26/08/2020 01:11:32 devpinoyLogger Verified Burger Menu
+26/08/2020 01:11:32 devpinoyLogger Burger Menu position is: absolute
+26/08/2020 01:11:32 devpinoyLogger Position Asserted
+26/08/2020 01:11:32 devpinoyLogger Burger Menu X point: 15
+26/08/2020 01:11:32 devpinoyLogger Burger Menu Y point: 30
+26/08/2020 01:11:32 devpinoyLogger rgba(74, 74, 74, 1)
+26/08/2020 01:11:32 devpinoyLogger #4a4a4a
+26/08/2020 01:11:32 devpinoyLogger Burger Menu Clicked
+26/08/2020 01:11:32 devpinoyLogger Verified Burger Menu List
+26/08/2020 01:11:32 devpinoyLogger TestUtil.screenshotName=Wed_Aug_26_01_11_32_CDT_2020.jpg
+26/08/2020 01:11:32 devpinoyLogger Swag Labs
+26/08/2020 01:11:34 devpinoyLogger VERIFY_PRODUCTBAR_POSITION_AND_COLORTest Started
+26/08/2020 01:11:34 devpinoyLogger Product Bar Exist
+26/08/2020 01:11:34 devpinoyLogger Product Bar Position is: relative
+26/08/2020 01:11:34 devpinoyLogger Position Asserted
+26/08/2020 01:11:34 devpinoyLogger Product Bar X point: 0
+26/08/2020 01:11:34 devpinoyLogger Product Bar Y point: 70
+26/08/2020 01:11:34 devpinoyLogger rgba(71, 76, 85, 1)
+26/08/2020 01:11:34 devpinoyLogger #474c55
+26/08/2020 01:11:34 devpinoyLogger Color Asserted
+26/08/2020 01:11:35 devpinoyLogger TestUtil.screenshotName=Wed_Aug_26_01_11_35_CDT_2020.jpg
+26/08/2020 01:11:35 devpinoyLogger Swag Labs
+26/08/2020 01:11:37 devpinoyLogger VERIFY_FILTER_DROP_DOWN_AND_SORTINGTest Started
+26/08/2020 01:11:37 devpinoyLogger Filter Drop Down Exist
+26/08/2020 01:11:37 devpinoyLogger Filter Drop Down Position is: absolute
+26/08/2020 01:11:37 devpinoyLogger Position Asserted
+26/08/2020 01:11:37 devpinoyLogger Filter Drop Down X point: 644
+26/08/2020 01:11:37 devpinoyLogger Filter Drop Down Y point: 93
+26/08/2020 01:11:37 devpinoyLogger rgba(255, 255, 255, 1)
+26/08/2020 01:11:37 devpinoyLogger #ffffff
+26/08/2020 01:11:37 devpinoyLogger A TO Z
+26/08/2020 01:11:37 devpinoyLogger Z TO A
+26/08/2020 01:11:37 devpinoyLogger LOW TO HI
+26/08/2020 01:11:37 devpinoyLogger HI TO LOW
+26/08/2020 01:11:37 devpinoyLogger Verified Filter Drop Down List
+26/08/2020 01:11:37 devpinoyLogger TestUtil.screenshotName=Wed_Aug_26_01_11_37_CDT_2020.jpg
+26/08/2020 01:11:37 devpinoyLogger Swag Labs
+26/08/2020 01:11:40 devpinoyLogger VERIFY_FINISH_BUTTONTest Started
+26/08/2020 01:11:40 devpinoyLogger Finish Button is Exist
+26/08/2020 01:11:40 devpinoyLogger Finish Button Position is: static
+26/08/2020 01:11:40 devpinoyLogger Position Asserted
+26/08/2020 01:11:40 devpinoyLogger Finish Button X point: 672
+26/08/2020 01:11:40 devpinoyLogger Finish Button Y point: 703
+26/08/2020 01:11:40 devpinoyLogger rgba(226, 35, 26, 1)
+26/08/2020 01:11:40 devpinoyLogger #e2231a
+26/08/2020 01:11:40 devpinoyLogger Finish button Clicked
+26/08/2020 01:11:40 devpinoyLogger https://www.saucedemo.com/checkout-complete.html
+26/08/2020 01:11:40 devpinoyLogger Verified Finish Button
+26/08/2020 01:11:40 devpinoyLogger TestUtil.screenshotName=Wed_Aug_26_01_11_40_CDT_2020.jpg
+26/08/2020 01:11:40 devpinoyLogger Swag Labs
+26/08/2020 01:11:42 devpinoyLogger VERIFY_LOGO_FOOTERTest Started
+26/08/2020 01:11:42 devpinoyLogger Footer Logo Exist
+26/08/2020 01:11:42 devpinoyLogger Footer Logo position is: relative
+26/08/2020 01:11:42 devpinoyLogger Position Asserted
+26/08/2020 01:11:42 devpinoyLogger Footer Logo X point: 154
+26/08/2020 01:11:42 devpinoyLogger Footer Logo Y point: 1770
+26/08/2020 01:11:42 devpinoyLogger rgba(74, 74, 74, 1)
+26/08/2020 01:11:42 devpinoyLogger #4a4a4a
+26/08/2020 01:11:42 devpinoyLogger Verified Footer Logo
+26/08/2020 01:11:43 devpinoyLogger TestUtil.screenshotName=Wed_Aug_26_01_11_43_CDT_2020.jpg
+26/08/2020 01:11:43 devpinoyLogger Swag Labs
+26/08/2020 01:11:45 devpinoyLogger VERIFY_CHECKOUT_BUTTONTest Started
+26/08/2020 01:11:45 devpinoyLogger Checkout Button Exist
+26/08/2020 01:11:45 devpinoyLogger Checkout button is Displayed
+26/08/2020 01:11:45 devpinoyLogger Checkout button Position is: absolute
+26/08/2020 01:11:45 devpinoyLogger Position Asserted
+26/08/2020 01:11:45 devpinoyLogger Checkout button X point: 641
+26/08/2020 01:11:45 devpinoyLogger Checkout button Y point: 254
+26/08/2020 01:11:45 devpinoyLogger Checkout Button Color is: rgba(226, 35, 26, 1)
+26/08/2020 01:11:45 devpinoyLogger #e2231a
+26/08/2020 01:11:45 devpinoyLogger Checkout Clicked
+26/08/2020 01:11:45 devpinoyLogger https://www.saucedemo.com/checkout-step-one.html
+26/08/2020 01:11:45 devpinoyLogger Verified Checkout Button
+26/08/2020 01:11:45 devpinoyLogger TestUtil.screenshotName=Wed_Aug_26_01_11_45_CDT_2020.jpg
+26/08/2020 01:11:45 devpinoyLogger Test is Completed
