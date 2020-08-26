@@ -31,6 +31,7 @@ public class Test_ProductBar_Position_and_Color extends TestBase {
 		int Y = driver.findElement(By.xpath(or.getProperty("PRODUCT_BAR"))).getLocation().getY();
 		log.debug("Product Bar Y point: " + Y);
 
+		//color
 		String expected = "#474c55";
 
 		String barColor = bar.getCssValue("background-color");

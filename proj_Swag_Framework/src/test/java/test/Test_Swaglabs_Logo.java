@@ -21,7 +21,7 @@ public class Test_Swaglabs_Logo extends TestBase {
 		
 		String actual = position;
 
-		Assert.assertEquals(actual,logo.getCssValue("position"));
+		Assert.assertEquals(actual,logo.getCssValue("text-align"));
 		log.debug("Position Asserted");
 		
 		int X = driver.findElement(By.xpath(or.getProperty("LOGO"))).getLocation().getX();
