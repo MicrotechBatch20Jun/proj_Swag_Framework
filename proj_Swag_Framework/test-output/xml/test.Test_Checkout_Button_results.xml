@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.164">
+  <properties />
+  
+  
+            <testcase name="Verify_Checkout_Button" time="0.164" classname="test.Test_Checkout_Button" />
+      
+</testsuite>

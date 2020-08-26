@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.408">
+  <properties />
+  
+  
+            <testcase name="Verify_Add_Cart_And_Remove" time="0.408" classname="test.Test_Add_Cart_And_Remove" />
+      
+</testsuite>
