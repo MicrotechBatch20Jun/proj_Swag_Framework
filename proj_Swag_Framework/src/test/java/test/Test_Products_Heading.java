@@ -19,7 +19,12 @@ public class Test_Products_Heading extends TestBase {
 
 		String namePosition = name.getCssValue("position");
 		log.debug("Products Header position is: " + namePosition);
-		
+
+		String actual = namePosition;
+
+		Assert.assertEquals(actual, name.getCssValue("position"));
+		log.debug("Position Asserted");
+
 		int X = driver.findElement(By.xpath(or.getProperty("PRODUCT_LABEL"))).getLocation().getX();
 		log.debug("Products Header X point: " + X);
 

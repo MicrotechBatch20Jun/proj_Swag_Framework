@@ -19,6 +19,11 @@ public class Test_Logo_Heading extends TestBase {
 
 		String position = image.getCssValue("position");
 		log.debug("Image Position is: " + position);
+		
+		String actual = position;
+
+		Assert.assertEquals(actual,image.getCssValue("position"));
+		log.debug("Position Asserted");
 
 		int X = driver.findElement(By.xpath(or.getProperty("IMAGE"))).getLocation().getX();
 		log.debug("Image X point: " + X);

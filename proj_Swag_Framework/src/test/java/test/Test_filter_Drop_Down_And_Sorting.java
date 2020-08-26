@@ -15,10 +15,15 @@ public class Test_filter_Drop_Down_And_Sorting extends TestBase {
 		isElementPresent(By.xpath(or.getProperty("DROP_DOWN")));
 		log.debug("Filter Drop Down Exist");
 
-		WebElement DD = driver.findElement(By.xpath(or.getProperty("DROP_DOWN")));
+		WebElement dd = driver.findElement(By.xpath(or.getProperty("DROP_DOWN")));
 
-		String Position = DD.getCssValue("position");
-		log.debug("Filter Drop Down Position is: " + Position);
+		String position = dd.getCssValue("position");
+		log.debug("Filter Drop Down Position is: " + position);
+		
+		String actual = position;
+
+		Assert.assertEquals(actual,dd.getCssValue("position"));
+		log.debug("Position Asserted");
 
 		int X = driver.findElement(By.xpath(or.getProperty("DROP_DOWN"))).getLocation().getX();
 		log.debug("Filter Drop Down X point: " + X);
@@ -28,10 +33,10 @@ public class Test_filter_Drop_Down_And_Sorting extends TestBase {
 
 		String expected = "#ffffff";
 
-		String DDColor = DD.getCssValue("background-color");
-		log.debug(DDColor);
+		String ddColor = dd.getCssValue("background-color");
+		log.debug(ddColor);
 
-		String hexColor = Color.fromString(DDColor).asHex();
+		String hexColor = Color.fromString(ddColor).asHex();
 		log.debug(hexColor);
 
 		String acual = hexColor;

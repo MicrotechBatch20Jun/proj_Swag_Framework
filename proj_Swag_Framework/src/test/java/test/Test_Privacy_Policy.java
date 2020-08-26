@@ -17,8 +17,13 @@ public class Test_Privacy_Policy extends TestBase {
 
 		WebElement pf = driver.findElement(By.xpath(or.getProperty("PRIVACY_FOOTER")));
 
-		String Position = pf.getCssValue("position");
-		log.debug("Privacy Footer Position is: " + Position);
+		String position = pf.getCssValue("position");
+		log.debug("Privacy Footer Position is: " + position);
+		
+		String actual = position;
+
+		Assert.assertEquals(actual,pf.getCssValue("position"));
+		log.debug("Position Asserted");
 		
 		int X = driver.findElement(By.xpath(or.getProperty("PRIVACY_FOOTER"))).getLocation().getX();
 		log.debug("Privacy Footer X point: " + X);

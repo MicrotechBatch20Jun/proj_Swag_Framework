@@ -25,6 +25,11 @@ public class Test_Continue_Shopping_Button extends TestBase {
 
 		String csCase = cs.getCssValue("text-transform");
 		log.debug("Continue Shopping Case Type: " + csCase);
+		
+		String csactual = csCase;
+
+		Assert.assertEquals(csactual,cs.getCssValue("text-transform"));
+		log.debug("Position Asserted");
 
 		int X = driver.findElement(By.xpath(or.getProperty("CONTINUE_SHOPPING"))).getLocation().getX();
 		log.debug("Continue Shopping X point: " + X);

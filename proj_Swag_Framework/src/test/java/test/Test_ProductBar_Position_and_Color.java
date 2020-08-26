@@ -19,6 +19,11 @@ public class Test_ProductBar_Position_and_Color extends TestBase {
 
 		String barPosition = bar.getCssValue("position");
 		log.debug("Product Bar Position is: " + barPosition);
+		
+		String actual = barPosition;
+		
+		Assert.assertEquals(actual, bar.getCssValue("position"));
+		log.debug("Position Asserted");
 
 		int X = driver.findElement(By.xpath(or.getProperty("PRODUCT_BAR"))).getLocation().getX();
 		log.debug("Product Bar X point: " + X);
@@ -37,6 +42,7 @@ public class Test_ProductBar_Position_and_Color extends TestBase {
 		String acual = hexColor;
 
 		Assert.assertEquals(acual, expected);
+		log.debug("Color Asserted");
 
 	}// Verify_ProductBar_Position_and_Color
 

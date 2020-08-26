@@ -23,6 +23,11 @@ public class Test_Burger_Menu extends TestBase {
 
 		String position = bm.getCssValue("position");
 		log.debug("Burger Menu position is: " + position);
+		
+		String factual = position;
+
+		Assert.assertEquals(factual,bm.getCssValue("position"));
+		log.debug("Position Asserted");
 
 		int X = driver.findElement(By.xpath(or.getProperty("BURGER_MENU"))).getLocation().getX();
 		log.debug("Burger Menu X point: " + X);

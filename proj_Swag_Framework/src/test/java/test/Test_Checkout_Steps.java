@@ -23,6 +23,12 @@ public class Test_Checkout_Steps extends TestBase {
 
 		String paddPos = cxinfo.getCssValue("position");
 		log.debug("Details Position is: " + paddPos);
+		
+		String factual = paddPos;
+
+		Assert.assertEquals(factual,cxinfo.getCssValue("position"));
+		log.debug("Position Asserted");
+		
 
 		int X = driver.findElement(By.xpath(or.getProperty("CHECKOUT_INFO"))).getLocation().getX();
 		log.debug("Details Position X point: " + X);

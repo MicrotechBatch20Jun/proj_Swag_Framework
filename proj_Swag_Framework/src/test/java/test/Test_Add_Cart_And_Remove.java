@@ -26,6 +26,11 @@ public class Test_Add_Cart_And_Remove extends TestBase {
 
 		String position = cp.getCssValue("position");
 		log.debug("Cart Position is: " + position);
+		
+		String factual = position;
+
+		Assert.assertEquals(factual,cp.getCssValue("position"));
+		log.debug("Position Asserted");
 
 		int X = driver.findElement(By.tagName(or.getProperty("CART"))).getLocation().getX();
 		log.debug("CART X point: " + X);

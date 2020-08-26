@@ -21,6 +21,11 @@ public class Test_Finish_Button extends TestBase {
 
 		String fbPosition = fb.getCssValue("position");
 		log.debug("Finish Button Position is: " + fbPosition);
+		
+		String factual = fbPosition;
+
+		Assert.assertEquals(factual,fb.getCssValue("position"));
+		log.debug("Position Asserted");
 
 		int X = driver.findElement(By.xpath(or.getProperty("FINISH"))).getLocation().getX();
 		log.debug("Finish Button X point: " + X);

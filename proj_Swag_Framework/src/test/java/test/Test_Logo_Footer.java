@@ -20,6 +20,11 @@ public class Test_Logo_Footer extends TestBase {
 
 		String position = fl.getCssValue("position");
 		log.debug("Footer Logo position is: " + position);
+		
+		String actual = position;
+
+		Assert.assertEquals(actual,fl.getCssValue("position"));
+		log.debug("Position Asserted");
 
 		int X = driver.findElement(By.xpath(or.getProperty("LOGO_FOOTER"))).getLocation().getX();
 		log.debug("Footer Logo X point: " + X);

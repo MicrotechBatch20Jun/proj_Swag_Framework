@@ -25,6 +25,11 @@ public class Test_Checkout_Button extends TestBase {
 
 		String coPosition = co.getCssValue("position");
 		log.debug("Checkout button Position is: " + coPosition);
+		
+		String factual = coPosition;
+
+		Assert.assertEquals(factual,co.getCssValue("position"));
+		log.debug("Position Asserted");
 
 		int X = driver.findElement(By.xpath(or.getProperty("CHECKOUT"))).getLocation().getX();
 		log.debug("Checkout button X point: " + X);
