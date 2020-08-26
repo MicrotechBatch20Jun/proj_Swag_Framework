@@ -1,29 +1,539 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+<testng-results skipped="0" failed="0" ignored="24" total="37" passed="13">
   <reporter-output>
+    <line>
+      <![CDATA[Click to see Screenshot]]>
+    </line>
+    <line>
+      <![CDATA[<a target="_blank" href=Wed_Aug_26_00_19_23_CDT_2020.jpg>Screenshot</a>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<a target="_blank" href=Wed_Aug_26_00_19_23_CDT_2020.jpg><img src=Wed_Aug_26_00_19_23_CDT_2020.jpg height=200 width=200></img></a>]]>
+    </line>
+    <line>
+      <![CDATA[Click to see Screenshot]]>
+    </line>
+    <line>
+      <![CDATA[<a target="_blank" href=Wed_Aug_26_00_19_26_CDT_2020.jpg>Screenshot</a>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<a target="_blank" href=Wed_Aug_26_00_19_26_CDT_2020.jpg><img src=Wed_Aug_26_00_19_26_CDT_2020.jpg height=200 width=200></img></a>]]>
+    </line>
+    <line>
+      <![CDATA[Click to see Screenshot]]>
+    </line>
+    <line>
+      <![CDATA[<a target="_blank" href=Wed_Aug_26_00_19_28_CDT_2020.jpg>Screenshot</a>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<a target="_blank" href=Wed_Aug_26_00_19_28_CDT_2020.jpg><img src=Wed_Aug_26_00_19_28_CDT_2020.jpg height=200 width=200></img></a>]]>
+    </line>
+    <line>
+      <![CDATA[Click to see Screenshot]]>
+    </line>
+    <line>
+      <![CDATA[<a target="_blank" href=Wed_Aug_26_00_19_31_CDT_2020.jpg>Screenshot</a>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<a target="_blank" href=Wed_Aug_26_00_19_31_CDT_2020.jpg><img src=Wed_Aug_26_00_19_31_CDT_2020.jpg height=200 width=200></img></a>]]>
+    </line>
+    <line>
+      <![CDATA[Click to see Screenshot]]>
+    </line>
+    <line>
+      <![CDATA[<a target="_blank" href=Wed_Aug_26_00_19_34_CDT_2020.jpg>Screenshot</a>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<a target="_blank" href=Wed_Aug_26_00_19_34_CDT_2020.jpg><img src=Wed_Aug_26_00_19_34_CDT_2020.jpg height=200 width=200></img></a>]]>
+    </line>
+    <line>
+      <![CDATA[Click to see Screenshot]]>
+    </line>
+    <line>
+      <![CDATA[<a target="_blank" href=Wed_Aug_26_00_19_36_CDT_2020.jpg>Screenshot</a>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<a target="_blank" href=Wed_Aug_26_00_19_36_CDT_2020.jpg><img src=Wed_Aug_26_00_19_36_CDT_2020.jpg height=200 width=200></img></a>]]>
+    </line>
+    <line>
+      <![CDATA[Click to see Screenshot]]>
+    </line>
+    <line>
+      <![CDATA[<a target="_blank" href=Wed_Aug_26_00_19_39_CDT_2020.jpg>Screenshot</a>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<a target="_blank" href=Wed_Aug_26_00_19_39_CDT_2020.jpg><img src=Wed_Aug_26_00_19_39_CDT_2020.jpg height=200 width=200></img></a>]]>
+    </line>
+    <line>
+      <![CDATA[Click to see Screenshot]]>
+    </line>
+    <line>
+      <![CDATA[<a target="_blank" href=Wed_Aug_26_00_19_42_CDT_2020.jpg>Screenshot</a>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<a target="_blank" href=Wed_Aug_26_00_19_42_CDT_2020.jpg><img src=Wed_Aug_26_00_19_42_CDT_2020.jpg height=200 width=200></img></a>]]>
+    </line>
+    <line>
+      <![CDATA[Click to see Screenshot]]>
+    </line>
+    <line>
+      <![CDATA[<a target="_blank" href=Wed_Aug_26_00_19_44_CDT_2020.jpg>Screenshot</a>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<a target="_blank" href=Wed_Aug_26_00_19_44_CDT_2020.jpg><img src=Wed_Aug_26_00_19_44_CDT_2020.jpg height=200 width=200></img></a>]]>
+    </line>
+    <line>
+      <![CDATA[Click to see Screenshot]]>
+    </line>
+    <line>
+      <![CDATA[<a target="_blank" href=Wed_Aug_26_00_19_47_CDT_2020.jpg>Screenshot</a>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<a target="_blank" href=Wed_Aug_26_00_19_47_CDT_2020.jpg><img src=Wed_Aug_26_00_19_47_CDT_2020.jpg height=200 width=200></img></a>]]>
+    </line>
+    <line>
+      <![CDATA[Click to see Screenshot]]>
+    </line>
+    <line>
+      <![CDATA[<a target="_blank" href=Wed_Aug_26_00_19_50_CDT_2020.jpg>Screenshot</a>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<a target="_blank" href=Wed_Aug_26_00_19_50_CDT_2020.jpg><img src=Wed_Aug_26_00_19_50_CDT_2020.jpg height=200 width=200></img></a>]]>
+    </line>
+    <line>
+      <![CDATA[Click to see Screenshot]]>
+    </line>
+    <line>
+      <![CDATA[<a target="_blank" href=Wed_Aug_26_00_19_52_CDT_2020.jpg>Screenshot</a>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<a target="_blank" href=Wed_Aug_26_00_19_52_CDT_2020.jpg><img src=Wed_Aug_26_00_19_52_CDT_2020.jpg height=200 width=200></img></a>]]>
+    </line>
+    <line>
+      <![CDATA[Click to see Screenshot]]>
+    </line>
+    <line>
+      <![CDATA[<a target="_blank" href=Wed_Aug_26_00_19_55_CDT_2020.jpg>Screenshot</a>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<a target="_blank" href=Wed_Aug_26_00_19_55_CDT_2020.jpg><img src=Wed_Aug_26_00_19_55_CDT_2020.jpg height=200 width=200></img></a>]]>
+    </line>
   </reporter-output>
-  <suite name="Default suite" duration-ms="5085" started-at="2020-08-25T23:58:00 CDT" finished-at="2020-08-25T23:58:05 CDT">
+  <suite name="Suite" duration-ms="37485" started-at="2020-08-26T00:19:17 CDT" finished-at="2020-08-26T00:19:55 CDT">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="5085" started-at="2020-08-25T23:58:00 CDT" finished-at="2020-08-25T23:58:05 CDT">
-      <class name="test.Test_ProductBar_Position_and_Color">
-        <test-method status="PASS" signature="setup()[pri:0, instance:test.Test_ProductBar_Position_and_Color@21a947fe]" name="setup" is-config="true" duration-ms="3727" started-at="2020-08-25T23:57:57 CDT" finished-at="2020-08-25T23:58:00 CDT">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setup -->
-        <test-method status="PASS" signature="login()[pri:0, instance:test.Test_ProductBar_Position_and_Color@21a947fe]" name="login" is-config="true" duration-ms="4971" started-at="2020-08-25T23:58:00 CDT" finished-at="2020-08-25T23:58:05 CDT">
+    <test name="Test" duration-ms="37485" started-at="2020-08-26T00:19:17 CDT" finished-at="2020-08-26T00:19:55 CDT">
+      <class name="test.Test_Finish_Button">
+        <test-method status="PASS" signature="login()[pri:0, instance:test.Test_Finish_Button@6156496]" name="login" is-config="true" duration-ms="2169" started-at="2020-08-26T00:19:47 CDT" finished-at="2020-08-26T00:19:49 CDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login -->
-        <test-method status="PASS" signature="Verify_ProductBar_Position_and_Color()[pri:0, instance:test.Test_ProductBar_Position_and_Color@21a947fe]" name="Verify_ProductBar_Position_and_Color" duration-ms="94" started-at="2020-08-25T23:58:05 CDT" finished-at="2020-08-25T23:58:05 CDT">
+        <test-method status="PASS" signature="Verify_Finish_Button()[pri:0, instance:test.Test_Finish_Button@6156496]" name="Verify_Finish_Button" duration-ms="236" started-at="2020-08-26T00:19:49 CDT" finished-at="2020-08-26T00:19:49 CDT">
+          <reporter-output>
+            <line>
+              <![CDATA[Click to see Screenshot]]>
+            </line>
+            <line>
+              <![CDATA[<a target="_blank" href=Wed_Aug_26_00_19_50_CDT_2020.jpg>Screenshot</a>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<a target="_blank" href=Wed_Aug_26_00_19_50_CDT_2020.jpg><img src=Wed_Aug_26_00_19_50_CDT_2020.jpg height=200 width=200></img></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Verify_Finish_Button -->
+      </class> <!-- test.Test_Finish_Button -->
+      <class name="test.Test_ProductBar_Position_and_Color">
+        <test-method status="PASS" signature="login()[pri:0, instance:test.Test_ProductBar_Position_and_Color@5c1a8622]" name="login" is-config="true" duration-ms="2168" started-at="2020-08-26T00:19:42 CDT" finished-at="2020-08-26T00:19:44 CDT">
           <reporter-output>
           </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="Verify_ProductBar_Position_and_Color()[pri:0, instance:test.Test_ProductBar_Position_and_Color@5c1a8622]" name="Verify_ProductBar_Position_and_Color" duration-ms="82" started-at="2020-08-26T00:19:44 CDT" finished-at="2020-08-26T00:19:44 CDT">
+          <reporter-output>
+            <line>
+              <![CDATA[Click to see Screenshot]]>
+            </line>
+            <line>
+              <![CDATA[<a target="_blank" href=Wed_Aug_26_00_19_44_CDT_2020.jpg>Screenshot</a>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<a target="_blank" href=Wed_Aug_26_00_19_44_CDT_2020.jpg><img src=Wed_Aug_26_00_19_44_CDT_2020.jpg height=200 width=200></img></a>]]>
+            </line>
+          </reporter-output>
         </test-method> <!-- Verify_ProductBar_Position_and_Color -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:test.Test_ProductBar_Position_and_Color@21a947fe]" name="tearDown" is-config="true" duration-ms="25" started-at="2020-08-25T23:58:05 CDT" finished-at="2020-08-25T23:58:06 CDT">
+      </class> <!-- test.Test_ProductBar_Position_and_Color -->
+      <class name="test.Test_Checkout_Button">
+        <test-method status="PASS" signature="login()[pri:0, instance:test.Test_Checkout_Button@b62fe6d]" name="login" is-config="true" duration-ms="2199" started-at="2020-08-26T00:19:52 CDT" finished-at="2020-08-26T00:19:54 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="Verify_Checkout_Button()[pri:0, instance:test.Test_Checkout_Button@b62fe6d]" name="Verify_Checkout_Button" duration-ms="190" started-at="2020-08-26T00:19:54 CDT" finished-at="2020-08-26T00:19:54 CDT">
+          <reporter-output>
+            <line>
+              <![CDATA[Click to see Screenshot]]>
+            </line>
+            <line>
+              <![CDATA[<a target="_blank" href=Wed_Aug_26_00_19_55_CDT_2020.jpg>Screenshot</a>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<a target="_blank" href=Wed_Aug_26_00_19_55_CDT_2020.jpg><img src=Wed_Aug_26_00_19_55_CDT_2020.jpg height=200 width=200></img></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Verify_Checkout_Button -->
+      </class> <!-- test.Test_Checkout_Button -->
+      <class name="test.Test_Logo_Heading">
+        <test-method status="PASS" signature="login()[pri:0, instance:test.Test_Logo_Heading@f2f2cc1]" name="login" is-config="true" duration-ms="2207" started-at="2020-08-26T00:19:31 CDT" finished-at="2020-08-26T00:19:33 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="Verify_Header_Image()[pri:0, instance:test.Test_Logo_Heading@f2f2cc1]" name="Verify_Header_Image" duration-ms="114" started-at="2020-08-26T00:19:33 CDT" finished-at="2020-08-26T00:19:34 CDT">
+          <reporter-output>
+            <line>
+              <![CDATA[Click to see Screenshot]]>
+            </line>
+            <line>
+              <![CDATA[<a target="_blank" href=Wed_Aug_26_00_19_34_CDT_2020.jpg>Screenshot</a>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<a target="_blank" href=Wed_Aug_26_00_19_34_CDT_2020.jpg><img src=Wed_Aug_26_00_19_34_CDT_2020.jpg height=200 width=200></img></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Verify_Header_Image -->
+      </class> <!-- test.Test_Logo_Heading -->
+      <class name="test.Test_Privacy_Policy">
+        <test-method status="PASS" signature="login()[pri:0, instance:test.Test_Privacy_Policy@657c8ad9]" name="login" is-config="true" duration-ms="2195" started-at="2020-08-26T00:19:26 CDT" finished-at="2020-08-26T00:19:28 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="Verify_Privacy_Policy()[pri:0, instance:test.Test_Privacy_Policy@657c8ad9]" name="Verify_Privacy_Policy" duration-ms="147" started-at="2020-08-26T00:19:28 CDT" finished-at="2020-08-26T00:19:28 CDT">
+          <reporter-output>
+            <line>
+              <![CDATA[Click to see Screenshot]]>
+            </line>
+            <line>
+              <![CDATA[<a target="_blank" href=Wed_Aug_26_00_19_28_CDT_2020.jpg>Screenshot</a>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<a target="_blank" href=Wed_Aug_26_00_19_28_CDT_2020.jpg><img src=Wed_Aug_26_00_19_28_CDT_2020.jpg height=200 width=200></img></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Verify_Privacy_Policy -->
+      </class> <!-- test.Test_Privacy_Policy -->
+      <class name="test.Test_Checkout_Steps">
+        <test-method status="PASS" signature="setup()[pri:0, instance:test.Test_Checkout_Steps@6295d394]" name="setup" is-config="true" duration-ms="3685" started-at="2020-08-26T00:19:14 CDT" finished-at="2020-08-26T00:19:17 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="login()[pri:0, instance:test.Test_Checkout_Steps@6295d394]" name="login" is-config="true" duration-ms="4977" started-at="2020-08-26T00:19:17 CDT" finished-at="2020-08-26T00:19:22 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="Verify_Checkout_Steps()[pri:0, instance:test.Test_Checkout_Steps@6295d394]" name="Verify_Checkout_Steps" duration-ms="519" started-at="2020-08-26T00:19:22 CDT" finished-at="2020-08-26T00:19:23 CDT">
+          <reporter-output>
+            <line>
+              <![CDATA[Click to see Screenshot]]>
+            </line>
+            <line>
+              <![CDATA[<a target="_blank" href=Wed_Aug_26_00_19_23_CDT_2020.jpg>Screenshot</a>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<a target="_blank" href=Wed_Aug_26_00_19_23_CDT_2020.jpg><img src=Wed_Aug_26_00_19_23_CDT_2020.jpg height=200 width=200></img></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Verify_Checkout_Steps -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:test.Test_Checkout_Steps@6295d394]" name="tearDown" is-config="true" duration-ms="26" started-at="2020-08-26T00:19:55 CDT" finished-at="2020-08-26T00:19:55 CDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- test.Test_ProductBar_Position_and_Color -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+      </class> <!-- test.Test_Checkout_Steps -->
+      <class name="test.Test_filter_Drop_Down_And_Sorting">
+        <test-method status="PASS" signature="login()[pri:0, instance:test.Test_filter_Drop_Down_And_Sorting@5ad851c9]" name="login" is-config="true" duration-ms="2191" started-at="2020-08-26T00:19:44 CDT" finished-at="2020-08-26T00:19:46 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="Verify_filter_Drop_Down_And_Sorting()[pri:0, instance:test.Test_filter_Drop_Down_And_Sorting@5ad851c9]" name="Verify_filter_Drop_Down_And_Sorting" duration-ms="252" started-at="2020-08-26T00:19:46 CDT" finished-at="2020-08-26T00:19:47 CDT">
+          <reporter-output>
+            <line>
+              <![CDATA[Click to see Screenshot]]>
+            </line>
+            <line>
+              <![CDATA[<a target="_blank" href=Wed_Aug_26_00_19_47_CDT_2020.jpg>Screenshot</a>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<a target="_blank" href=Wed_Aug_26_00_19_47_CDT_2020.jpg><img src=Wed_Aug_26_00_19_47_CDT_2020.jpg height=200 width=200></img></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Verify_filter_Drop_Down_And_Sorting -->
+      </class> <!-- test.Test_filter_Drop_Down_And_Sorting -->
+      <class name="test.Test_Add_Cart_And_Remove">
+        <test-method status="PASS" signature="login()[pri:0, instance:test.Test_Add_Cart_And_Remove@436a4e4b]" name="login" is-config="true" duration-ms="2182" started-at="2020-08-26T00:19:28 CDT" finished-at="2020-08-26T00:19:31 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="Verify_Add_Cart_And_Remove()[pri:0, instance:test.Test_Add_Cart_And_Remove@436a4e4b]" name="Verify_Add_Cart_And_Remove" duration-ms="329" started-at="2020-08-26T00:19:31 CDT" finished-at="2020-08-26T00:19:31 CDT">
+          <reporter-output>
+            <line>
+              <![CDATA[Click to see Screenshot]]>
+            </line>
+            <line>
+              <![CDATA[<a target="_blank" href=Wed_Aug_26_00_19_31_CDT_2020.jpg>Screenshot</a>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<a target="_blank" href=Wed_Aug_26_00_19_31_CDT_2020.jpg><img src=Wed_Aug_26_00_19_31_CDT_2020.jpg height=200 width=200></img></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Verify_Add_Cart_And_Remove -->
+      </class> <!-- test.Test_Add_Cart_And_Remove -->
+      <class name="test.Test_Continue_Shopping_Button">
+        <test-method status="PASS" signature="login()[pri:0, instance:test.Test_Continue_Shopping_Button@3a079870]" name="login" is-config="true" duration-ms="2179" started-at="2020-08-26T00:19:34 CDT" finished-at="2020-08-26T00:19:36 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="Verify_Continue_Shop()[pri:1, instance:test.Test_Continue_Shopping_Button@3a079870]" name="Verify_Continue_Shop" duration-ms="223" started-at="2020-08-26T00:19:36 CDT" finished-at="2020-08-26T00:19:36 CDT">
+          <reporter-output>
+            <line>
+              <![CDATA[Click to see Screenshot]]>
+            </line>
+            <line>
+              <![CDATA[<a target="_blank" href=Wed_Aug_26_00_19_36_CDT_2020.jpg>Screenshot</a>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<a target="_blank" href=Wed_Aug_26_00_19_36_CDT_2020.jpg><img src=Wed_Aug_26_00_19_36_CDT_2020.jpg height=200 width=200></img></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Verify_Continue_Shop -->
+      </class> <!-- test.Test_Continue_Shopping_Button -->
+      <class name="test.Test_Swaglabs_Logo">
+        <test-method status="PASS" signature="login()[pri:0, instance:test.Test_Swaglabs_Logo@475e586c]" name="login" is-config="true" duration-ms="2197" started-at="2020-08-26T00:19:23 CDT" finished-at="2020-08-26T00:19:25 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="Verify_Swaglabs_Logo()[pri:0, instance:test.Test_Swaglabs_Logo@475e586c]" name="Verify_Swaglabs_Logo" duration-ms="112" started-at="2020-08-26T00:19:25 CDT" finished-at="2020-08-26T00:19:25 CDT">
+          <reporter-output>
+            <line>
+              <![CDATA[Click to see Screenshot]]>
+            </line>
+            <line>
+              <![CDATA[<a target="_blank" href=Wed_Aug_26_00_19_26_CDT_2020.jpg>Screenshot</a>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<a target="_blank" href=Wed_Aug_26_00_19_26_CDT_2020.jpg><img src=Wed_Aug_26_00_19_26_CDT_2020.jpg height=200 width=200></img></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Verify_Swaglabs_Logo -->
+      </class> <!-- test.Test_Swaglabs_Logo -->
+      <class name="test.Test_Products_Heading">
+        <test-method status="PASS" signature="login()[pri:0, instance:test.Test_Products_Heading@3b2cf7ab]" name="login" is-config="true" duration-ms="2179" started-at="2020-08-26T00:19:37 CDT" finished-at="2020-08-26T00:19:39 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="Verify_Products_Header()[pri:0, instance:test.Test_Products_Heading@3b2cf7ab]" name="Verify_Products_Header" duration-ms="97" started-at="2020-08-26T00:19:39 CDT" finished-at="2020-08-26T00:19:39 CDT">
+          <reporter-output>
+            <line>
+              <![CDATA[Click to see Screenshot]]>
+            </line>
+            <line>
+              <![CDATA[<a target="_blank" href=Wed_Aug_26_00_19_39_CDT_2020.jpg>Screenshot</a>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<a target="_blank" href=Wed_Aug_26_00_19_39_CDT_2020.jpg><img src=Wed_Aug_26_00_19_39_CDT_2020.jpg height=200 width=200></img></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Verify_Products_Header -->
+      </class> <!-- test.Test_Products_Heading -->
+      <class name="test.Test_Logo_Footer">
+        <test-method status="PASS" signature="login()[pri:0, instance:test.Test_Logo_Footer@3c153a1]" name="login" is-config="true" duration-ms="2187" started-at="2020-08-26T00:19:50 CDT" finished-at="2020-08-26T00:19:52 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="Verify_Logo_Footer()[pri:0, instance:test.Test_Logo_Footer@3c153a1]" name="Verify_Logo_Footer" duration-ms="97" started-at="2020-08-26T00:19:52 CDT" finished-at="2020-08-26T00:19:52 CDT">
+          <reporter-output>
+            <line>
+              <![CDATA[Click to see Screenshot]]>
+            </line>
+            <line>
+              <![CDATA[<a target="_blank" href=Wed_Aug_26_00_19_52_CDT_2020.jpg>Screenshot</a>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<a target="_blank" href=Wed_Aug_26_00_19_52_CDT_2020.jpg><img src=Wed_Aug_26_00_19_52_CDT_2020.jpg height=200 width=200></img></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Verify_Logo_Footer -->
+      </class> <!-- test.Test_Logo_Footer -->
+      <class name="test.Test_Burger_Menu">
+        <test-method status="PASS" signature="login()[pri:0, instance:test.Test_Burger_Menu@2aa5fe93]" name="login" is-config="true" duration-ms="2197" started-at="2020-08-26T00:19:39 CDT" finished-at="2020-08-26T00:19:41 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="Verify_Burger_Menu()[pri:0, instance:test.Test_Burger_Menu@2aa5fe93]" name="Verify_Burger_Menu" duration-ms="159" started-at="2020-08-26T00:19:41 CDT" finished-at="2020-08-26T00:19:41 CDT">
+          <reporter-output>
+            <line>
+              <![CDATA[Click to see Screenshot]]>
+            </line>
+            <line>
+              <![CDATA[<a target="_blank" href=Wed_Aug_26_00_19_42_CDT_2020.jpg>Screenshot</a>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<a target="_blank" href=Wed_Aug_26_00_19_42_CDT_2020.jpg><img src=Wed_Aug_26_00_19_42_CDT_2020.jpg height=200 width=200></img></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Verify_Burger_Menu -->
+      </class> <!-- test.Test_Burger_Menu -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>

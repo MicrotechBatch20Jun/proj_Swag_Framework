@@ -4,10 +4,10 @@
            failures="0"
            errors="0"
            skipped="0"
-           time="0.102">
+           time="0.112">
   <properties />
   
   
-            <testcase name="Verify_Swaglabs_Logo" time="0.102" classname="test.Test_Swaglabs_Logo" />
+            <testcase name="Verify_Swaglabs_Logo" time="0.112" classname="test.Test_Swaglabs_Logo" />
       
 </testsuite>

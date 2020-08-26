@@ -4,10 +4,10 @@
            failures="0"
            errors="0"
            skipped="0"
-           time="0.158">
+           time="0.177">
   <properties />
   
   
-            <testcase name="Verify_Burger_Menu" time="0.158" classname="test.Test_Burger_Menu" />
+            <testcase name="Verify_Burger_Menu" time="0.177" classname="test.Test_Burger_Menu" />
       
 </testsuite>

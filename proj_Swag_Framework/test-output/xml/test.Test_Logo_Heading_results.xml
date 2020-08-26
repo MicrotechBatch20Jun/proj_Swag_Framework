@@ -4,10 +4,10 @@
            failures="0"
            errors="0"
            skipped="0"
-           time="0.097">
+           time="0.114">
   <properties />
   
   
-            <testcase name="Verify_Header_Image" time="0.097" classname="test.Test_Logo_Heading" />
+            <testcase name="Verify_Header_Image" time="0.114" classname="test.Test_Logo_Heading" />
       
 </testsuite>

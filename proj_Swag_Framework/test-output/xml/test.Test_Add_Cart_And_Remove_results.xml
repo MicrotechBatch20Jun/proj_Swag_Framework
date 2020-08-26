@@ -4,10 +4,10 @@
            failures="0"
            errors="0"
            skipped="0"
-           time="0.359">
+           time="0.329">
   <properties />
   
   
-            <testcase name="Verify_Add_Cart_And_Remove" time="0.359" classname="test.Test_Add_Cart_And_Remove" />
+            <testcase name="Verify_Add_Cart_And_Remove" time="0.329" classname="test.Test_Add_Cart_And_Remove" />
       
 </testsuite>
